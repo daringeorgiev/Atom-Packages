@@ -1,0 +1,46 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "fa972b65-c37d-4c16-9323-ddc4ecc6b36f"
+    sass:
+      convert_quotes: "single"
+      indent_size: 2
+      newline_between_rules: true
+    scss:
+      convert_quotes: "single"
+      indent_size: 2
+      newline_between_rules: true
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+  editor:
+    fontSize: 17
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "018bd2cf-afea-3fcf-b29a-7e419c3feefa"
+  linter:
+    showErrorPanel: false
+  minimap:
+    absoluteMode: true
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  "sync-settings":
+    _analyticsUserId: "08709f40-c4d2-4422-aeca-b5f0981b4642"
+  "w3c-validation":
+    validateOnSave: false
+  welcome:
+    showOnStartup: false
