@@ -1,7 +1,7 @@
 "*":
   "atom-beautify":
     general:
-      _analyticsUserId: "fa972b65-c37d-4c16-9323-ddc4ecc6b36f"
+      _analyticsUserId: ""
     sass:
       convert_quotes: "single"
       indent_size: 2
@@ -18,7 +18,7 @@
     showIndentGuide: true
     showInvisibles: true
   "exception-reporting":
-    userId: "018bd2cf-afea-3fcf-b29a-7e419c3feefa"
+    userId: ""
   linter:
     showErrorPanel: false
   minimap:
@@ -39,7 +39,7 @@
       "split-diff": true
       "split-diffDecorationsZIndex": 0
   "sync-settings":
-    _analyticsUserId: "08709f40-c4d2-4422-aeca-b5f0981b4642"
+    _analyticsUserId: ""
   "w3c-validation":
     validateOnSave: false
   welcome:
