@@ -8,6 +8,14 @@ cd Atom-Packages/
 windows-installer
 ```
 
+### Linux Installation
+```
+git clone https://github.com/daringeorgiev/Atom-Packages.git
+cd Atom-Packages/
+chmod +x linux-installer.sh
+./linux-installer.sh
+```
+
 ### Packages
 ####[atom-beautify](https://atom.io/packages/atom-beautify)
 Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom
